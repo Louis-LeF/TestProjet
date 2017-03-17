@@ -12,5 +12,6 @@ using namespace std;
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "Zozo t'es la plus belle !" << endl;
+	cout << "Barth est moche et pue la tise" << endl;
 	return 0;
 }
